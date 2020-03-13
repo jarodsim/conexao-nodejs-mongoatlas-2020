@@ -33,6 +33,11 @@ Estou fazendo esse "tutorial" com base em uma grande luta e pesquisa onde me vi 
 ![print6](imgs/conect.png)
 ![print7](imgs/copiea-a-uri.png)
 
+### Veja o código no NodeJs para a conexão
+> É um código bem simples que efetua apenas a conexão
+
+@jarod cavalcante - 2020
+
 
 
 
